@@ -1,0 +1,16 @@
+gas_value,gas_type,level
+100,urea,safe
+120,urea,safe
+150,urea,safe
+180,urea,safe
+220,potassium,warning
+250,potassium,warning
+280,potassium,warning
+300,potassium,warning
+330,mixed,danger
+360,mixed,danger
+390,mixed,danger
+420,mixed,danger
+450,mixed,danger
+480,mixed,danger
+500,mixed,danger
