@@ -138,18 +138,6 @@ python run_all.py
 
 ---
 
-📁 Project Structure
-
-project/
-│
-├── run_all.py
-├── predict_live.py
-├── app.py
-├── alarm.mp3
-├── README.md
-
----
-
 💡 Applications
 
 - 🌾 Agriculture (fertilizer monitoring)
